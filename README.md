@@ -11,7 +11,7 @@ http://cssnext.io/features/#color-function
 => интерактив по флексам http://flexbox.help/ => для продакшена https://dmitriy-8-kireev.github.io/flexboxgrid2/docs/
 
 # Grids
-справочники https://gridbyexample.com/learn/ и https://css-tricks.com/snippets/css/complete-guide-gr..
+справочники https://gridbyexample.com/learn/ и https://css-tricks.com/snippets/css/complete-guide-grid/ 
 => интерактив по Гридам http://yui.github.io/gridbuilder/ и https://codepen.io/anthonydugois/pen/RpYBmy
 # Правила верстки
 
@@ -47,13 +47,13 @@ https://habr.com/post/305900/ и https://learn.javascript.ru/es-modern
 
 
 # Шпаргалка по bash
-https://github.com/Dmitriy-8-Kireev/Web-Development-C..
+https://github.com/Dmitriy-8-Kireev/web-development/tree/master/bash
 
 # Шпаргалка по консольным командам Git
-https://github.com/Dmitriy-8-Kireev/Web-Development-C..
+https://github.com/Dmitriy-8-Kireev/web-development/blob/master/git/readme.md 
 
 # Шпаргалка по NPM
-https://github.com/Dmitriy-8-Kireev/Web-Development-C..
+https://github.com/Dmitriy-8-Kireev/web-development/tree/master/npm
 
 # Шпаргалка по YARN
 https://github.com/areai51/yarn-cheatsheet
@@ -65,7 +65,7 @@ https://github.com/UsulPro/js-stack-from-scratch-v1-rus
 
 Список рекомендаций по вёрстке БЭМ 
 
-https://dmitriy-8-kireev.github.io/Frontend_informati..
+https://dmitriy-8-kireev.github.io/Frontend_information-master/
 
 # Дополнительные материалы
 
@@ -76,27 +76,25 @@ https://ru.bem.info/methodology/
 
 https://ru.bem.info/methodology/quick-start/
 
-
 ## Инструментарий 
 
 https://ru.bem.info/toolbox/
-
 
 ## Платформа 
 ### Готовая реализация
 https://ru.bem.info/platform/
 ### Быстрый старт
-https://ru.bem.info/platform/tutorials/quick-start-st..
+https://ru.bem.info/methodology/quick-start/
 
 # Java Script MDN методы встроенных типов
 ### String 
-https://developer.mozilla.org/en-US/docs/Web/JavaScri..
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String
 ### Number
-https://developer.mozilla.org/en-US/docs/Web/JavaScri..
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Number 
 ### Array
-https://developer.mozilla.org/en-US/docs/Web/JavaScri..
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array
 ### Object
-https://developer.mozilla.org/en-US/docs/Web/JavaScri..
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object
 
 # REACT 
 ## React: Основы основ
@@ -154,8 +152,8 @@ https://reactjs.org/docs/react-dom.html
 https://github.com/facebook/create-react-app/blob/mas..
 
 ### Styled-components
-Документация https://www.styled-components.com/docs => примеры использования и концепция https://mxstbr.blog/2016/11/styled-components-magic-e.. => Строчная интерполяция Встроенные выражения Многострочные строки без хаков
-Форматирование строк https://developers.google.com/web/updates/2015/01/ES6..
+Документация https://www.styled-components.com/docs => примеры использования и концепция https://mxstbr.blog/2016/11/styled-components-magic-explained/ => Строчная интерполяция Встроенные выражения Многострочные строки без хаков
+Форматирование строк https://developers.google.com/web/updates/2015/01/ES6-Template-Strings
 
 ## Роутинг
 * [React Router 4](https://habrahabr.ru/post/329996/) [**RU**] – простое объяснение отличий от предыдущих версий.
@@ -239,9 +237,40 @@ https://github.com/facebook/create-react-app/blob/mas..
 
 https://habr.com/company/infowatch/blog/315760/
 
+
 # REACT ПЛАГИНЫ
 ### Правила написания по eslint-plugin-react
-https://github.com/yannickcr/eslint-plugin-react/blob..
+https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/prefer-stateless-function.md
 
 ### Airbnb JavaScript Style Guide
 https://github.com/airbnb/javascript#table-of-contents
+
+## Инструменты
+* [Webpack + React](https://habrahabr.ru/post/308926/) [**RU**] – как уменьшить бандл в 15 раз: подборка плагинов для экстремального сжатия.
+
+* [Webpack 2 для самых глупых](https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/) [**EN**] – подробное введение в использование второй версии сборщика.
+
+* [Видео курс](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY) [**EN**] по второй версии Webpack. Расскажут, как написать базовый конфиг, работать с лоадерами и плагинами, автоматически генерировать HTML, работать с React и Babel, стилями и другими файлами + подробно про настройку Webpack dev server для удобной горячей перезагрузки.
+
+* [Собираем React приложение с помощью Webpack 2 и Babel](https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel) [**EN**] – руководство по настройке самых необходимых инструментов.
+
+* [Code Splitting](http://mxstbr.blog/2016/01/react-apps-with-pages/) [**EN**] в React приложении – разделение большого бандла на меньшие части для более быстрой загрузки приложения.
+
+* [Горячая перезагрузка всего!](https://hackernoon.com/hot-reload-all-the-things-ec0fed8ab0) [**EN**] Как использовать Hot Module Replacement в Webpack для перезагрузки фронтенда и бэкенда в изоморфном приложении.
+
+* [Руководство по настройке редактора кода Atom](https://medium.com/productivity-freak/my-atom-editor-setup-for-js-react-9726cd69ad20) [**EN**] для наиболее продуктивной работы с React приложениями.
+
+
+## Разное
+* [Подборка 15 вопросов с собеседования](http://www.kanby.ru/voprosyi-pro-react-na-sobesedovanii.html) [**RU**] для React-разработчика.
+
+* [Подборка интересных open source проектов](https://www.reddit.com/r/reactjs/comments/496db2/large_open_source_reactredux_projects/) [**EN**] сделанных на React. На их примере можно посмотреть, как правильно организовать код в своих проектах и подглядеть пару интересных инструментов для сборки.
+
+* [Awesome React Talks](https://github.com/tiaanduplessis/awesome-react-talks) [**EN**] – подборка лучший докладов с конференций, посвященных React, всё разделено по годам.
+
+* [React за 30 минут](https://www.youtube.com/watch?v=_MAD4Oly9yg) [**EN**] – создайте свой клон библиотеки и посмотрите, как всё устроено изнутри.
+
+* [Основы работы с recompose](https://www.youtube.com/watch?v=SQtrgiLy3Fo) [**EN**] – библиотекой для расширения возможностей функциональных компонентов и их оптимизации.
+
+* [Шпаргалка по принципам работы с экосистемой React + Redux](https://github.com/uanders/react-redux-cheatsheet) [**EN**] в виде диаграммы.
+
