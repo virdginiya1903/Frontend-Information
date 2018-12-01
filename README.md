@@ -229,6 +229,13 @@ https://github.com/facebook/create-react-app/blob/mas..
 
 
 ### Тестирование в React
+* [Тестирование компонентов в React](https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22) [**EN**]: как сделать это правильно и что нужно тестировать в первую очередь.
+
+* [Лучшие практики тестирования React компонентов](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) [**EN**].
+
+* [Видео курс от egghead.io](https://egghead.io/lessons/javascript-test-javascript-with-jest?pl=testing-javascript-with-jest-a36c4074) [**EN**] про тестирование React приложения с Jest.
+
+* [Руководство по использованию TDD подхода при разработке React приложений](https://www.spencerdixon.com/blog/test-driven-react-tutorial.html) [**EN**]
 
 https://habr.com/company/infowatch/blog/315760/
 
