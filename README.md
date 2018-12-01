@@ -177,6 +177,57 @@ https://github.com/facebook/create-react-app/blob/mas..
 ### ReactRouter
 Документация https://reacttraining.com/react-router/web/guides/phi..
 
+# Redux
+## Робкое знакомство с Redux
+* Подробное объяснение [принципов разделения презентационных компонентов и компонентов контейнеров](http://www.kanby.ru/prezentaczionnyij-komponent-i-kontejner-v-react.html) [**RU**] при работе с React и Redux.
+
+* [Подборка 8 вещей](https://www.robinwieruch.de/learn-react-before-using-redux/), которые обязательно надо изучить в React, перед знакомством с Redux. [**EN**]
+
+* [Когда я пойму, что готов к Redux?](https://medium.com/@redlan/%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D1%8F-%D0%BF%D0%BE%D0%B9%D0%BC%D1%83-%D1%87%D1%82%D0%BE-%D0%B3%D0%BE%D1%82%D0%BE%D0%B2-%D0%BA-redux-f3198cc5044), перевод статьи разработчика о том, как понять, что наступило время освоить Redux.
+
+* Лучший способ ознакомиться с Redux — посмотреть [курс от самого создателя (Даниила Абрамова) на egghead.io](https://egghead.io/series/getting-started-with-redux) [**EN**] — 30 видео уроков, в которых покажут не только, как пользоваться библиотекой, но и объяснят принцип её работы (по сути, в ходе курса вы сами напишете свой мини-Redux) + в конце расскажут про связку с React с помощью компонентов из React-redux, объяснят, как создавать компоненты-контейнеры, единственная цель которых передавать данные в другие компоненты, а также, как использовать контексты при работе с React.
+
+* Сразу после курса бегите читать [официальную документацию](http://redux.js.org/) [**EN**]. Документация небольшая по объёму, но проясняет многие детали, которые не смог покрыть курс. Так же существует вольный перевод [документации на русском языке](https://www.gitbook.com/book/rajdee/redux-in-russian) [**RU**].
+
+* Статья [Лучшие практики при работе с Redux](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e) [**EN**] расскажет, как не совершить типичных ошибок: где и как организовать бизнес логику приложения, как правильно работать с асинхронными операциями, как создать архитектуру проекта на Redux и многое другое.
+
+
+## Продвинутый Redux
+* [mergeStateToProps](https://habrahabr.ru/post/314582/) [**RU**] — возможности React Redux, о которых вы не знали (`mapDispatchToProps` на стероидах).
+
+* [Идиоматический Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) [**EN**] – второй курс от создателя Redux (Даниила Абрамова) про продвинутые техники использования библиотеки.
+
+* [Обзор экосистемы Redux](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521) [**EN**] — объяснение принципов сосуществования с React, React Router + паттерны работы с асинхронностью и аутентификацией.
+
+* [Пишем всю middleware](https://medium.com/@jihdeh/creating-custom-middleware-in-react-redux-961570459ecb) [**EN**].
+
+* [Асинхронный Redux](https://medium.com/@jtbennett/asynchronous-actions-in-redux-8412cf92a26f) [**EN**] – разбор библиотек для работы с асинхронными операциями в Redux.
+
+## Архитектура приложения
+* [Как избежать излишней сложности состояния приложения](https://habrahabr.ru/post/316070/) [**RU**] – руководство по правильной организации Redux-стора в больших приложениях.
+
+* [Как правильно организовать архитектуру большого приложения на React и Redux](https://www.sitepoint.com/organize-large-react-application/) [**EN**].
+
+* [Пять советов по работе с Redux в больших приложениях](https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb) [**EN**] – продвинутое использование селекторов, техники разделения состояния, переиспользование редюсеров.
+
+## От и до: уроки по созданию полноценных приложений
+* [Создаём клон Trello](https://habrahabr.ru/post/308056/) [**RU**]. Описывается разработка сайта c авторизацией и функционалом популярного. Помимо React используется Redux, PostgreSQL, Phoenix (фреймворк для Elixir, который в свою очередь работает на Erlang VM).
+
+* Собираем с нуля изоморфное приложение – пошаговое руководство по настройке сборки приложения на React с server-side рендерингом [**RU**]:
+  * [Часть 1](https://habrahabr.ru/post/309958/)
+  * [Часть 2](https://habrahabr.ru/post/310284/)
+  * [Часть 3](https://habrahabr.ru/post/310952/)
+
+* [Создаём клон Реддита](https://www.sitepoint.com/reddit-clone-react-firebase/) [**EN**] с помощью React и Firebase
+
+* [Создаём клон Твиттера](https://scotch.io/tutorials/build-a-twitter-like-search-feed-with-react-js-and-appbase-io) [**EN**] на React с использованием appbase в качестве бэкенда.
+
+* Создаём медиа-библиотеку с помощью React, Redux и Redux-saga [**EN**]:
+  * [Часть 1](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1)
+  * [Часть 2](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2)
+
+
+
 ### Тестирование в React
 
 https://habr.com/company/infowatch/blog/315760/
