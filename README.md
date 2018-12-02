@@ -45,6 +45,8 @@ https://habr.com/post/305900/ и https://learn.javascript.ru/es-modern
 
   * [Онлайн песочница](http://bevacqua.github.io/promisees/) [**EN**] для изучения промисов с визуализацией алгоритма их выполнения. Есть несколько отличных примеров для демонстрации принципов работы и возможность написать код своими руками.
 
+## Шпаргалка по THIS
+https://reactjs.org/docs/handling-events.html#passing-arguments-to-event-handlers и http://theory.phphtml.net/javascript/context/this.html и https://getinstance.info/articles/javascript/execution-context/ и https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/
 
 # Шпаргалка по bash
 https://github.com/Dmitriy-8-Kireev/web-development/tree/master/bash
