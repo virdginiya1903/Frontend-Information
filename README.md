@@ -2,18 +2,24 @@
  
 ## Html 
 [Бесплатный справочник по HTML](https://htmlreference.io/) [**EN**] –  Он содержит все элементы и атрибуты.
-# Css 
-https://cssreference.io/
-# PostCss 
-http://cssnext.io/features/#color-function
-# Flexbox
-справочник https://cssreference.io/flexbox/
-=> интерактив по флексам http://flexbox.help/ => для продакшена https://dmitriy-8-kireev.github.io/flexboxgrid2/docs/
+## Css 
 
-# Grids
+[CSS Reference - бесплатный визуальный справочник по CSS](https://cssreference.io/) [**EN**] –  Он содержит самые популярные свойства и объясняет их иллюстрированными и анимированными примерами.
+
+## PostCss 
+[Функции PostCss](http://cssnext.io/features/#color-function) [**EN**] 
+
+## Flexbox
+[Справочник CSS Reference по Flexbox](https://cssreference.io/flexbox/) [**EN**] - Свойства CSS, которые позволяют использовать возможности Flex3
+[Интерактив по флексам](http://flexbox.help/) [**EN**] 
+  
+ 
+ для продакшена https://dmitriy-8-kireev.github.io/flexboxgrid2/docs/
+
+## Grids
 справочники https://gridbyexample.com/learn/ и https://css-tricks.com/snippets/css/complete-guide-grid/ 
 => интерактив по Гридам http://yui.github.io/gridbuilder/ и https://codepen.io/anthonydugois/pen/RpYBmy
-# Правила верстки
+## Правила верстки
 
 http://codeguide.co/
 
