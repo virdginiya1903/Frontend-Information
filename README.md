@@ -23,7 +23,8 @@
 => интерактив по Гридам http://yui.github.io/gridbuilder/ и https://codepen.io/anthonydugois/pen/RpYBmy
 ## Правила верстки
 
-http://codeguide.co/
+
+[Code Guide](http://codeguide.co/) [**EN**] -  Стандарты для разработки гибких, долговечных  HTML и CSS.
 
 [Бесплатные темы для Bootstrap](https://bootswatch.com/) [**EN**] 
   
