@@ -33,7 +33,9 @@
 # Шпаргалки
 
 # Шпаргалка по ES6 (2015)
-https://habr.com/post/305900/ и https://learn.javascript.ru/es-modern
+https://habr.com/post/305900/ и 
+
+[Современные возможности ES-2015](https://learn.javascript.ru/es-modern) [**RU**] -Современный стандарт ES-2015 и его расширения для JavaScript.
 
 * [Блочные зоны видимости](http://jsraccoon.ru/es6-block-scoped-declarations) [**RU**] – `const`, `let` вместо `var`: в чём разница и где стоит быть осторожным.
 
