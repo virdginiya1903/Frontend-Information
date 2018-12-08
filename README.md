@@ -1,4 +1,11 @@
 # Справочники
+
+![icons8-bookmark-64](https://user-images.githubusercontent.com/35109743/49686858-e5001500-fb0b-11e8-9bf9-6b5560ca0311.png)
+
+![icons8-bookmark-64](https://user-images.githubusercontent.com/35109743/49686920-a9197f80-fb0c-11e8-9222-59d6231ee37b.png)
+![icons8-delete-64](https://user-images.githubusercontent.com/35109743/49686924-c5b5b780-fb0c-11e8-90d2-029a34f4a399.png)
+![icons8-search-64](https://user-images.githubusercontent.com/35109743/49686929-d6662d80-fb0c-11e8-87f4-02d8d9ddea00.png)
+
  
 ## Html 
 [Бесплатный справочник по HTML](https://htmlreference.io/) [**EN**] –  Он содержит все элементы и атрибуты.
