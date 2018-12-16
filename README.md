@@ -55,19 +55,25 @@
   📖 [Онлайн песочница](http://bevacqua.github.io/promisees/) [**EN**] для изучения промисов с визуализацией алгоритма их выполнения. Есть несколько отличных примеров для демонстрации принципов работы и возможность написать код своими руками.
 
 ## Шпаргалка по THIS
-https://reactjs.org/docs/handling-events.html#passing-arguments-to-event-handlers и http://theory.phphtml.net/javascript/context/this.html и https://getinstance.info/articles/javascript/execution-context/ и https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/
+📖 https://reactjs.org/docs/handling-events.html#passing-arguments-to-event-handlers и 
+
+📖 http://theory.phphtml.net/javascript/context/this.html и
+
+📖 https://getinstance.info/articles/javascript/execution-context/ и 
+
+📖 https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/
 
 # Шпаргалка по bash
-https://github.com/Dmitriy-8-Kireev/web-development/tree/master/bash
+📖 https://github.com/Dmitriy-8-Kireev/web-development/tree/master/bash
 
 # Шпаргалка по консольным командам Git
-https://github.com/Dmitriy-8-Kireev/web-development/blob/master/git/readme.md 
+📖 https://github.com/Dmitriy-8-Kireev/web-development/blob/master/git/readme.md 
 
 # Шпаргалка по NPM
-https://github.com/Dmitriy-8-Kireev/web-development/tree/master/npm
+📖 https://github.com/Dmitriy-8-Kireev/web-development/tree/master/npm
 
 # Шпаргалка по YARN
-https://github.com/areai51/yarn-cheatsheet
+📖 https://github.com/areai51/yarn-cheatsheet
 
 # Шпаргалка по созданию всего cтека технологий JavaScript с нуля
 https://github.com/UsulPro/js-stack-from-scratch-v1-rus
