@@ -135,6 +135,9 @@ https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Ob
 
 * [Подборка интерактивных примеров](https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a) [**EN**], которые помогут разобраться в базовых идеях, лежащих в основе библиотеки.
 
+https://www.robinwieruch.de/conditional-rendering-react/ все условные рендеры в react
+
+
 
 ## Ныряем в React с головой
 * [PureComponent в React](https://habrahabr.ru/company/redmadrobot/blog/318222/) [**RU**] – как и зачем применять, разбор отличий от Component.
