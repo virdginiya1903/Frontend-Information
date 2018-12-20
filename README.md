@@ -78,11 +78,11 @@ https://www.robinwieruch.de/javascript-fundamentals-react-requirements/ Осно
 📖 https://github.com/areai51/yarn-cheatsheet
 
 # Шпаргалка по созданию всего cтека технологий JavaScript с нуля
-https://github.com/UsulPro/js-stack-from-scratch-v1-rus
+📖  https://github.com/UsulPro/js-stack-from-scratch-v1-rus
 
 # Как работать с CSS-препроцессорами (БЭМ все в одном)
 
-Список рекомендаций по вёрстке БЭМ 
+📖  Список рекомендаций по вёрстке БЭМ 
 
 https://dmitriy-8-kireev.github.io/Frontend_information-master/
 
@@ -90,7 +90,7 @@ https://dmitriy-8-kireev.github.io/Frontend_information-master/
 
 ## Методология БЭМ (Яндекс) 
 ### Идея и архитектура
-https://ru.bem.info/methodology/
+📖  https://ru.bem.info/methodology/
 ## Быстрый старт
 
 https://ru.bem.info/methodology/quick-start/
