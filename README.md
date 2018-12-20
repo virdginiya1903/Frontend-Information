@@ -57,9 +57,11 @@
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/ Основы JavaScript перед изучением React
 
 ## Шпаргалка по THIS
-📖 https://reactjs.org/docs/handling-events.html#passing-arguments-to-event-handlers и 
+📖  [Обработка событий](https://reactjs.org/docs/handling-events.html#passing-arguments-to-event-handlers) [**EN**] в документации React
 
-📖 http://theory.phphtml.net/javascript/context/this.html и
+📖  [Обработка событий](https://ru.react.js.org/docs/handling-events.html?) [**RU**] в документации React на русском
+
+📖 http://theory.phphtml.net/javascript/context/this.html 
 
 📖 https://getinstance.info/articles/javascript/execution-context/ и 
 
