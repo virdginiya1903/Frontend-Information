@@ -131,11 +131,13 @@ https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Ob
 
 * [React to the Future](http://elijahmanor.com/talks/react-to-the-future/dist/#/) [**EN**] – презентация про то, чем действительно является React и, почему появление библиотеки – это большой шаг вперёд.
 
-* [Объяснение принципов работы пропсов и состояний](https://medium.freecodecamp.com/react-props-state-explained-through-darth-vaders-hunt-for-the-rebels-8ee486576492) [**EN**] в React на примере Дарт Вейдера и повстанцев.
+📖 [Объяснение принципов работы пропсов и состояний](https://medium.freecodecamp.com/react-props-state-explained-through-darth-vaders-hunt-for-the-rebels-8ee486576492) [**EN**] в React на примере Дарт Вейдера и повстанцев.
 
-* [Подборка интерактивных примеров](https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a) [**EN**], которые помогут разобраться в базовых идеях, лежащих в основе библиотеки.
+📖 [Подборка интерактивных примеров](https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a) [**EN**], которые помогут разобраться в базовых идеях, лежащих в основе библиотеки.
 
-https://www.robinwieruch.de/conditional-rendering-react/ все условные рендеры в react
+📖 https://www.robinwieruch.de/conditional-rendering-react/ все условные рендеры в react
+
+📖 [Основы JavaScript перед изучением React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-javascript) [EN], краткий список всех различных функций JavaScript, дополняющих ваше приложение React.
 
 
 
