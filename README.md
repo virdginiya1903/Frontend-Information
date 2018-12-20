@@ -22,9 +22,40 @@
 
 📖 [Бесплатные темы для Bootstrap](https://bootswatch.com/) [**EN**] 
   
+📖 [Шпаргалка по bash](https://github.com/Dmitriy-8-Kireev/web-development/tree/master/bash) [**RU**] - Шпаргалка для начинающих пользователей консоли Git Bash
+
+📖 [Шпаргалка по консольным командам Git](https://github.com/Dmitriy-8-Kireev/web-development/blob/master/git/readme.md) [**RU**] 
+
+📖 [Шпаргалка по NPM](https://github.com/Dmitriy-8-Kireev/web-development/tree/master/npm) [**RU**] 
+
+📖 [Шпаргалка по YARN](https://github.com/areai51/yarn-cheatsheet) [**EN**]  
+
+📖 [Шпаргалка по созданию всего cтека технологий JavaScript с нуля](https://github.com/UsulPro/js-stack-from-scratch-v1-rus) [**RU**]  
+
+📖 [Список рекомендаций по вёрстке БЭМ](https://dmitriy-8-kireev.github.io/Frontend_information-master/) [**RU**] 
 
 
-# Шпаргалки
+# Дополнительные материалы
+
+## Методология БЭМ (Яндекс) 
+### Идея и архитектура
+📖  https://ru.bem.info/methodology/
+## Быстрый старт
+
+📖 https://ru.bem.info/methodology/quick-start/
+
+## Инструментарий 
+
+📖 https://ru.bem.info/toolbox/
+
+## Платформа 
+### Готовая реализация
+📖 https://ru.bem.info/platform/
+### Быстрый старт
+📖 https://ru.bem.info/methodology/quick-start/
+
+
+
 
 # Шпаргалка по ES6 (2015)
 📖 [ES6 по-человечески](https://habr.com/post/305900/) [**RU**] - перевод краткого (действительно краткого) руководства по ES6.
@@ -67,45 +98,6 @@ https://www.robinwieruch.de/javascript-fundamentals-react-requirements/ Осно
 
 📖 https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/
 
-# Шпаргалка по bash
-📖 https://github.com/Dmitriy-8-Kireev/web-development/tree/master/bash
-
-# Шпаргалка по консольным командам Git
-📖 https://github.com/Dmitriy-8-Kireev/web-development/blob/master/git/readme.md 
-
-# Шпаргалка по NPM
-📖 https://github.com/Dmitriy-8-Kireev/web-development/tree/master/npm
-
-# Шпаргалка по YARN
-📖 https://github.com/areai51/yarn-cheatsheet
-
-# Шпаргалка по созданию всего cтека технологий JavaScript с нуля
-📖  https://github.com/UsulPro/js-stack-from-scratch-v1-rus
-
-# Как работать с CSS-препроцессорами (БЭМ все в одном)
-
-📖  Список рекомендаций по вёрстке БЭМ 
-
-https://dmitriy-8-kireev.github.io/Frontend_information-master/
-
-# Дополнительные материалы
-
-## Методология БЭМ (Яндекс) 
-### Идея и архитектура
-📖  https://ru.bem.info/methodology/
-## Быстрый старт
-
-📖 https://ru.bem.info/methodology/quick-start/
-
-## Инструментарий 
-
-📖 https://ru.bem.info/toolbox/
-
-## Платформа 
-### Готовая реализация
-📖 https://ru.bem.info/platform/
-### Быстрый старт
-📖 https://ru.bem.info/methodology/quick-start/
 
 # Java Script MDN методы встроенных типов
 ### String 
