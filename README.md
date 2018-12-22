@@ -292,3 +292,6 @@ https://habr.com/company/infowatch/blog/315760/
 
 📖 [Шпаргалка по принципам работы с экосистемой React + Redux](https://github.com/uanders/react-redux-cheatsheet) [**EN**] в виде диаграммы.
 
+MOBX
+
+https://habr.com/post/282578/
