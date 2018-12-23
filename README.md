@@ -295,3 +295,7 @@ https://habr.com/company/infowatch/blog/315760/
 MOBX
 
 https://habr.com/post/282578/
+
+Массивы
+
+https://vk.com/@maxpfrontend-shpargalka-po-metodam-dlya-raboty-s-massivami-v-javascript https://doesitmutate.xyz/
