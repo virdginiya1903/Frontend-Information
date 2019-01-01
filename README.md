@@ -303,3 +303,6 @@ https://habr.com/post/282578/
 Массивы
 
 https://vk.com/@maxpfrontend-shpargalka-po-metodam-dlya-raboty-s-massivami-v-javascript https://doesitmutate.xyz/
+
+Набор компетенций
+https://habr.com/company/mailru/blog/425821/
