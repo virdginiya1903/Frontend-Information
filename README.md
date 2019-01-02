@@ -79,11 +79,11 @@ https://www.robinwieruch.de/javascript-fundamentals-react-requirements/ Осно
 ## Шпаргалка по THIS
 📖  [Обработка событий](https://reactjs.org/docs/handling-events.html#passing-arguments-to-event-handlers) [**EN**] в документации React
 
-📖  [Обработка событий](https://ru.react.js.org/docs/handling-events.html?) [**RU**] в документации React на русском
+📖 [Обработка событий](https://ru.react.js.org/docs/handling-events.html?) [**RU**] в документации React на русском
 
-📖 http://theory.phphtml.net/javascript/context/this.html 
+📖 [Значение this](http://theory.phphtml.net/javascript/context/this.html) [**RU**] с примерами и ошибками
 
-📖 https://getinstance.info/articles/javascript/execution-context/ и 
+📖 [Контекст выполнения функции в JavaScript](https://getinstance.info/articles/javascript/execution-context/) [**RU**] 
 
 📖 https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/
 
