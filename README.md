@@ -90,15 +90,14 @@ https://www.robinwieruch.de/javascript-fundamentals-react-requirements/ Осно
 📖 https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/
 
 
-# Java Script MDN методы встроенных типов
-### String 
-📖 https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String
-### Number
-📖 https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Number 
-### Array
-📖 https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array
-### Object
-📖 https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object
+## Java Script MDN методы встроенных типов
+📖 [String](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String) [**RU**] 
+  
+📖 [Number](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Number) [**RU**]  
+ 
+📖 [Array](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array) [**RU**]  
+### 
+📖 [Object](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object) [**RU**]  
 
 # REACT 
 ## React: Основы основ
