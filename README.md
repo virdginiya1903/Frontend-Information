@@ -120,7 +120,7 @@ https://www.robinwieruch.de/javascript-fundamentals-react-requirements/ Осно
 
 📖 [Подборка интерактивных примеров](https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a) [**EN**], которые помогут разобраться в базовых идеях, лежащих в основе библиотеки.
 
-📖 https://www.robinwieruch.de/conditional-rendering-react/ все условные рендеры в react
+📖 [Все условные рендеры в react](https://www.robinwieruch.de/conditional-rendering-react/) [EN]:if else, ternary operation, logical && operator, switch case operator  
 
 📖 [Основы JavaScript перед изучением React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-javascript) [EN], краткий список всех различных функций JavaScript, дополняющих ваше приложение React.
 
