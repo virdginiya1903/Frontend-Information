@@ -296,5 +296,7 @@ MOBX
 
 https://vk.com/@maxpfrontend-shpargalka-po-metodam-dlya-raboty-s-massivami-v-javascript https://doesitmutate.xyz/
 
-Набор компетенций
-https://habr.com/company/mailru/blog/425821/
+
+
+📖 [Набор компетенций](https://habr.com/company/mailru/blog/425821/) [**RU**] - карта "Как стать React разработчиком в 2018 году"
+
