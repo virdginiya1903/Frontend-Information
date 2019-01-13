@@ -124,7 +124,9 @@ https://www.robinwieruch.de/javascript-fundamentals-react-requirements/ Осно
 
 📖 [Основы JavaScript перед изучением React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-javascript) [EN], краткий список всех различных функций JavaScript, дополняющих ваше приложение React.
 
+Учебник по REACT RUS
 
+https://github.com/the-road-to-learn-react/the-road-to-learn-react-russian
 
 ## Ныряем в React с головой
 📖 [PureComponent в React](https://habrahabr.ru/company/redmadrobot/blog/318222/) [**RU**] – как и зачем применять, разбор отличий от Component.
