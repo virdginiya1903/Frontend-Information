@@ -304,3 +304,4 @@ https://vk.com/@maxpfrontend-shpargalka-po-metodam-dlya-raboty-s-massivami-v-jav
 
 Для создания регулярных выражений
 https://regex101.com 
+[23 лучших компонентных фреймворков React] (https://techrocks.ru/2018/04/06/23-best-react-ui-component-frameworks/) [RU], для пользовательского интерфейса.
