@@ -306,5 +306,8 @@ https://vk.com/@maxpfrontend-shpargalka-po-metodam-dlya-raboty-s-massivami-v-jav
 https://regex101.com 
 [23 лучших компонентных фреймворков React] (https://techrocks.ru/2018/04/06/23-best-react-ui-component-frameworks/) [RU], для пользовательского интерфейса.
 
+Для создания индикаторов загрузки
+
+https://loading.io
 
 📖 [Скачать любое видео с youtube ](https://www.videograbber.net/) [**EN**]
