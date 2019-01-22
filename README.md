@@ -319,3 +319,4 @@ https://gist.github.com/Dmitriy-8-Kireev/cfbd6b0227f9369c6c3cb0ab3766811f
 Основы REDUX визуально
 
 https://gist.github.com/Dmitriy-8-Kireev/7d62a395f11f55590d844bfbf6029be5
+[React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/) [EN], Как получить данные с помощью React Hooks.
