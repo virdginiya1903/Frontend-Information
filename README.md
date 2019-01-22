@@ -311,7 +311,11 @@ https://regex101.com
 https://loading.io
 
 📖 [Скачать любое видео с youtube ](https://www.videograbber.net/) [**EN**]
+
  Cтандарты языка ECMAScript 2019 + Важные правила React and Redux
 
 https://gist.github.com/Dmitriy-8-Kireev/cfbd6b0227f9369c6c3cb0ab3766811f
 
+Основы REDUX визуально
+
+https://gist.github.com/Dmitriy-8-Kireev/7d62a395f11f55590d844bfbf6029be5
