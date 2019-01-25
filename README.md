@@ -323,4 +323,5 @@ https://gist.github.com/Dmitriy-8-Kireev/cfbd6b0227f9369c6c3cb0ab3766811f
 Normalizr - это мощная библиотека, которая помогает вам нормализовать ваши данные
 https://github.com/paularmstrong/normalizr
 
-
+Учебник по Реакт
+http://theory.phphtml.net/books/advanced/javascript/react/
