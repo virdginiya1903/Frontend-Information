@@ -89,6 +89,7 @@ https://www.robinwieruch.de/javascript-fundamentals-react-requirements/ Осно
 📖 [Контекст выполнения функции в JavaScript](https://getinstance.info/articles/javascript/execution-context/) [**RU**] 
 
 📖 https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/
+https://medium.freecodecamp.org/a-guide-to-this-in-javascript-e3b9daef4df1
 
 
 ## Java Script MDN методы встроенных типов
