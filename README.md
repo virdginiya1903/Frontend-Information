@@ -31,6 +31,7 @@
 📖 [Шпаргалка по YARN](https://github.com/areai51/yarn-cheatsheet) [**EN**]  
 
 📖 [Шпаргалка по созданию всего cтека технологий JavaScript с нуля](https://github.com/UsulPro/js-stack-from-scratch-v1-rus) [**RU**]  
+https://vanillajstoolkit.com/reference/#distances 
 
 📖 [Список рекомендаций по вёрстке БЭМ](https://dmitriy-8-kireev.github.io/Frontend_information-master/) [**RU**] 
 http://code.mu/ 
