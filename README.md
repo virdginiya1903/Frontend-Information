@@ -325,6 +325,7 @@ Normalizr - это мощная библиотека, которая помог�
 https://github.com/paularmstrong/normalizr
 
 Учебник по Реакт
+
 http://theory.phphtml.net/books/advanced/javascript/react/
 
 https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
