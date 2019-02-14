@@ -330,5 +330,10 @@ http://theory.phphtml.net/books/advanced/javascript/react/
 
 https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
 https://medium.com/@react.developer/глава-1-знакомство-с-redux-210cdcb5462d
-https://www.robinwieruch.de/node-js-express-tutorial/ Как настроить Express.js [EN], в Node.js.
+
+
 Vanilla TypeScript example [EN] – of a Redux Store
+
+
+📖 [Как настроить Express.js](https://www.robinwieruch.de/node-js-express-tutorial/) [EN], в Node.js.  
+
