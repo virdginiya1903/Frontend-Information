@@ -323,9 +323,10 @@ https://regex101.com
 Normalizr - это мощная библиотека, которая помогает вам нормализовать ваши данные
 https://github.com/paularmstrong/normalizr
 
-Учебник по Реакт
 
-http://theory.phphtml.net/books/advanced/javascript/react/
+📖 [Учебник по Реакт](http://theory.phphtml.net/books/advanced/javascript/react/) [**RU**] от Трепачёва Д.П. 
+
+
 
 https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
 https://medium.com/@react.developer/глава-1-знакомство-с-redux-210cdcb5462d
