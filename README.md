@@ -338,5 +338,6 @@ https://medium.com/@react.developer/глава-1-знакомство-с-redux-2
 Vanilla TypeScript example [EN] – of a Redux Store
 
 
-📖 [Как настроить Express.js](https://www.robinwieruch.de/node-js-express-tutorial/) [EN], в Node.js.  
+📖 [Как настроить Express.js](https://www.robinwieruch.de/node-js-express-tutorial/) [EN], в Node.js.  https://docs.microsoft.com/ru-ru/dotnet/standard/microservices-architecture/container-docker-introduction/docker-defined
+
 
