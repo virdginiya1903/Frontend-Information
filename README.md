@@ -335,7 +335,6 @@ https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-
 https://medium.com/@react.developer/глава-1-знакомство-с-redux-210cdcb5462d
 
 
-
 Vanilla TypeScript example [EN] – of a Redux Store
 
 
