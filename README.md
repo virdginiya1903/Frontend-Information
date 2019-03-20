@@ -337,10 +337,13 @@ https://medium.com/@react.developer/глава-1-знакомство-с-redux-2
 Vanilla TypeScript example [EN] – of a Redux Store
 
 
-📖 [Как настроить Express.js](https://www.robinwieruch.de/node-js-express-tutorial/) [EN], в Node.js.  https://docs.microsoft.com/ru-ru/dotnet/standard/microservices-architecture/container-docker-introduction/docker-defined
+📖 [Как настроить Express.js](https://www.robinwieruch.de/node-js-express-tutorial/) [EN], в Node.js.  
+📖 https://docs.microsoft.com/ru-ru/dotnet/standard/microservices-architecture/container-docker-introduction/docker-defined
 
 
-https://docs.microsoft.com/ru-ru/dotnet/standard/microservices-architecture/container-docker-introduction/docker-defined Общие сведения о контейнерах и Docker от Microsoft 
- Задачи на Javascript https://www.codewars.com/?language=javascript
-  наглядная шпоргалка по методам массивов 
+📖 https://docs.microsoft.com/ru-ru/dotnet/standard/microservices-architecture/container-docker-introduction/docker-defined Общие сведения о контейнерах и Docker от Microsoft 
+
+ 📖 Задачи на Javascript https://www.codewars.com/?language=javascript
+  
+ 📖 наглядная шпоргалка по методам массивов 
  https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3
