@@ -343,7 +343,7 @@ Vanilla TypeScript example [EN] – of a Redux Store
 
 📖 https://docs.microsoft.com/ru-ru/dotnet/standard/microservices-architecture/container-docker-introduction/docker-defined Общие сведения о контейнерах и Docker от Microsoft 
 
- 📖 Задачи на Javascript https://www.codewars.com/?language=javascript
+ 📖 [Задачи на Javascript](https://www.codewars.com/?language=javascript) [EN]
   
  📖 наглядная шпоргалка по методам массивов 
  https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3
