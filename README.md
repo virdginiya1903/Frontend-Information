@@ -83,6 +83,7 @@
 
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/ Основы JavaScript перед изучением React
 
+
 ## Шпаргалка по THIS
 📖  [Обработка событий](https://reactjs.org/docs/handling-events.html#passing-arguments-to-event-handlers) [**EN**] в документации React
 
