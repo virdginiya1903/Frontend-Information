@@ -321,12 +321,12 @@ https://regex101.com
 
 
 
-[Основы REDUX визуально](https://gist.github.com/Dmitriy-8-Kireev/7d62a395f11f55590d844bfbf6029be5/) 
+📖 [Основы REDUX визуально](https://gist.github.com/Dmitriy-8-Kireev/7d62a395f11f55590d844bfbf6029be5/) 
 
-[React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/) [EN], Как получить данные с помощью React Hooks.
-Normalizr - это мощная библиотека, которая помогает вам нормализовать ваши данные
-https://github.com/paularmstrong/normalizr
+📖 [React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/) [EN], Как получить данные с помощью React Hooks.
 
+
+📖 [Normalizr](https://github.com/paularmstrong/normalizr) [EN] - это мощная библиотека, которая помогает вам нормализовать ваши данные
 
 📖 [Учебник по Реакт](http://theory.phphtml.net/books/advanced/javascript/react/) [**RU**] от Трепачёва Д.П. 
 
