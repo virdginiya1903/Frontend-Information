@@ -352,5 +352,5 @@ https://regex101.com
 
  📖 [Задачи на Javascript](https://www.codewars.com/?language=javascript) [EN]
   
- 📖  [Наглядная шпоргалка по методам массивов](https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3) [EN]  
+ 📖  [Наглядная шпаргалка по методам массивов](https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3) [EN]  
  
