@@ -308,9 +308,9 @@ https://vk.com/@maxpfrontend-shpargalka-po-metodam-dlya-raboty-s-massivami-v-jav
 
 📖 [Набор компетенций](https://habr.com/company/mailru/blog/425821/) [**RU**] - карта "Как стать React разработчиком в 2018 году"
 
-Для создания регулярных выражений
+📖  Для создания регулярных выражений
 https://regex101.com 
-[23 лучших компонентных фреймворков React] (https://techrocks.ru/2018/04/06/23-best-react-ui-component-frameworks/) [RU], для пользовательского интерфейса.
+📖  [23 лучших компонентных фреймворков React] (https://techrocks.ru/2018/04/06/23-best-react-ui-component-frameworks/) [RU], для пользовательского интерфейса.
 
 
 📖 [loading](https://loading.io) [**EN**] - Для создания индикаторов загрузки
@@ -331,11 +331,11 @@ https://regex101.com
 📖 [Учебник по Реакт](http://theory.phphtml.net/books/advanced/javascript/react/) [**RU**] от Трепачёва Д.П. 
 
 
-https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
-https://medium.com/@react.developer/глава-1-знакомство-с-redux-210cdcb5462d
+📖  https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
+📖  https://medium.com/@react.developer/глава-1-знакомство-с-redux-210cdcb5462d
 
 
-Vanilla TypeScript example [EN] – of a Redux Store
+📖  Vanilla TypeScript example [EN] – of a Redux Store
 
 
 📖 [Как настроить Express.js](https://www.robinwieruch.de/node-js-express-tutorial/) [EN], в Node.js.  
