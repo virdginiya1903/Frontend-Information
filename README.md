@@ -353,3 +353,8 @@ https://regex101.com
   
  📖  [Наглядная шпаргалка по методам массивов](https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3) [EN]  
  
+ 📖  [Решение мелких задач](https://gist.github.com/virdginiya1903/de3396ab168c0e06747a9726cc8cb73a) [RU]  
+ 
+ 
+
+
