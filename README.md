@@ -355,6 +355,7 @@ https://regex101.com
  
  📖  [Решение мелких задач](https://gist.github.com/virdginiya1903/de3396ab168c0e06747a9726cc8cb73a) [RU]  
  
- 
+  📖  [How to simplify your codebase with map(), reduce(), and filter() in JavaScript](https://medium.freecodecamp.org/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f) [EN]  
 
+ 
 
