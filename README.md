@@ -301,7 +301,6 @@ MOBX
 📖 [Mobx — управление состоянием вашего приложения. Статья на Habr](https://habr.com/post/282578/) [**RU**] в виде диаграммы.
 
 
-
 Массивы
 
 https://vk.com/@maxpfrontend-shpargalka-po-metodam-dlya-raboty-s-massivami-v-javascript https://doesitmutate.xyz/
