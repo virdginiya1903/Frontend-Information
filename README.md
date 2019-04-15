@@ -336,8 +336,6 @@ https://regex101.com
 📖  https://medium.com/@react.developer/глава-1-знакомство-с-redux-210cdcb5462d
 
 
-📖  Vanilla TypeScript example [EN] – of a Redux Store
-
 
 📖 [Как настроить Express.js](https://www.robinwieruch.de/node-js-express-tutorial/) [EN], в Node.js.  
 
