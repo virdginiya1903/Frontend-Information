@@ -131,7 +131,6 @@ https://medium.freecodecamp.org/a-guide-to-this-in-javascript-e3b9daef4df1
 📖 [Основы JavaScript перед изучением React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-javascript) [EN], краткий список всех различных функций JavaScript, дополняющих ваше приложение React.
 
 Учебник по REACT RUS
-
 https://github.com/the-road-to-learn-react/the-road-to-learn-react-russian
 
 ## Ныряем в React с головой
