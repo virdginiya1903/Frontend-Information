@@ -352,6 +352,6 @@ https://regex101.com
  
   📖  [How to simplify your codebase with map(), reduce(), and filter() in JavaScript](https://medium.freecodecamp.org/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f) [EN]  
 
+📖  [Изучите основы React Hooks за <10 минут](https://medium.freecodecamp.org/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d?source=user_profile---------0---------------------) [EN]
  
-
-https://medium.freecodecamp.org/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d?source=user_profile---------0---------------------
+ 
