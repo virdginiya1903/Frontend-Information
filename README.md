@@ -359,3 +359,4 @@ https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index
 https://vds-admin.ru/http/kody-sostoyaniya-http-otveta-veb-servera-metody-http
 https://mothereff.in/js-variables 
 Валидатор имени переменной JavaScript
+http://thetypingcat.com/custom-typing-courses/javascript-existence
