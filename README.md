@@ -361,3 +361,4 @@ https://mothereff.in/js-variables
 Валидатор имени переменной JavaScript
 http://thetypingcat.com/custom-typing-courses/javascript-existence
 https://jsbooks.revolunet.com/
+https://maxfarseer.gitbooks.io/redux-course-ru-v2/content/sozdanie/tochka-vhoda.html
