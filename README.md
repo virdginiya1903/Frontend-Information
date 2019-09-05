@@ -210,6 +210,9 @@ https://github.com/airbnb/javascript/tree/master/react
 
 📖 Статья [Лучшие практики при работе с Redux](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e) [**EN**] расскажет, как не совершить типичных ошибок: где и как организовать бизнес логику приложения, как правильно работать с асинхронными операциями, как создать архитектуру проекта на Redux и многое другое.
 
+https://maxfarseer.gitbooks.io/redux-course-ru-v2/content/sozdanie/tochka-vhoda.html
+
+📖 [mergeStateToProps](https://habrahabr.ru/post/314582/) [**RU**] — возможности React Redux, о которых вы не знали (`mapDispatchToProps` на стероидах
 
 ## Продвинутый Redux
 📖 [mergeStateToProps](https://habrahabr.ru/post/314582/) [**RU**] — возможности React Redux, о которых вы не знали (`mapDispatchToProps` на стероидах).
@@ -361,4 +364,3 @@ https://mothereff.in/js-variables
 Валидатор имени переменной JavaScript
 http://thetypingcat.com/custom-typing-courses/javascript-existence
 https://jsbooks.revolunet.com/ .
-https://maxfarseer.gitbooks.io/redux-course-ru-v2/content/sozdanie/tochka-vhoda.html
