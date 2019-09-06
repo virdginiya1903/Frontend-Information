@@ -83,8 +83,7 @@
 
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/ Основы JavaScript перед изучением React
 
-
-## Шпаргалка по THIS
+https://ru.hexlet.io/blog/posts/naming-in-programming# Шпаргалка по THIS
 📖  [Обработка событий](https://reactjs.org/docs/handling-events.html#passing-arguments-to-event-handlers) [**EN**] в документации React
 
 📖 [Обработка событий](https://ru.react.js.org/docs/handling-events.html?) [**RU**] в документации React на русском
