@@ -364,3 +364,4 @@ https://mothereff.in/js-variables
 Валидатор имени переменной JavaScript
 http://thetypingcat.com/custom-typing-courses/javascript-existence
 https://jsbooks.revolunet.com/ .
+https://www.robinwieruch.de/learn-react-js
