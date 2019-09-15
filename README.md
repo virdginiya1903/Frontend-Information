@@ -107,7 +107,7 @@ https://medium.freecodecamp.org/a-guide-to-this-in-javascript-e3b9daef4df1
 📖 [Array](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array) [**RU**]  
 ### 
 📖 [Object](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object) [**RU**]  
-
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.f0ylwguj9
 # REACT 
 ## React: Основы основ
 📖 [Статья из официальной документации Thinking in React](https://habrahabr.ru/post/319134/) [**RU**] про идеологию библиотеки, поможет понять, основные идеи лежащие в основе React.
