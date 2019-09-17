@@ -367,3 +367,6 @@ https://mothereff.in/js-variables
 http://thetypingcat.com/custom-typing-courses/javascript-existence
 https://jsbooks.revolunet.com/ .
 https://www.robinwieruch.de/learn-react-js
+
+## Книги
+https://exploringjs.com
