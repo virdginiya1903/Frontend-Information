@@ -370,3 +370,5 @@ https://www.robinwieruch.de/learn-react-js
 ## Книги
 https://exploringjs.com
 
+Набор онлайн инструментов от CATONMAT
+https://catonmat.net/
