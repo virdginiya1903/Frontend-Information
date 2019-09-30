@@ -159,7 +159,7 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pu
 Airbnb React Style Guide
 
 https://github.com/airbnb/javascript/tree/master/react
-
+https://www.robinwieruch.de/react-redux-tutorial
 
 ### Элементы - самые маленькие строительные блоки приложений React
 📖 https://reactjs.org/docs/rendering-elements.html
