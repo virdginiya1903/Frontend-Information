@@ -133,7 +133,7 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pu
 📖 [Основы JavaScript перед изучением React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-javascript) [EN], краткий список всех различных функций JavaScript, дополняющих ваше приложение React.
 
 📖 [Учебник по REACT RUS](https://github.com/the-road-to-learn-react/the-road-to-learn-react-russian) [**RU**] -Путь к изучению React 
- 
+ https://www.robinwieruch.de/javascript-variable-question-mark
 
 
 ## Ныряем в React с головой
