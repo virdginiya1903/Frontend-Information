@@ -177,8 +177,8 @@ https://www.robinwieruch.de/react-redux-tutorial
 ### Styled-components
 📖 Документация https://www.styled-components.com/docs => примеры использования и концепция https://mxstbr.blog/2016/11/styled-components-magic-explained/ => Строчная интерполяция Встроенные выражения Многострочные строки без хаков
 Форматирование строк https://developers.google.com/web/updates/2015/01/ES6-Template-Strings
-
-## Роутинг
+https://www.robinwieruch.de/react-redux-tutorial
+# Роутинг
 📖 [React Router 4](https://habrahabr.ru/post/329996/) [**RU**] – простое объяснение отличий от предыдущих версий.
 
 📖 [React router + browserHistory](https://www.youtube.com/watch?v=cdUyEou0LHg) [**EN**] – как правильно использовать в продакшене.
