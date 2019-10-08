@@ -300,7 +300,8 @@ https://habr.com/company/infowatch/blog/315760/
 📖 [Основы работы с recompose](https://www.youtube.com/watch?v=SQtrgiLy3Fo) [**EN**] – библиотекой для расширения возможностей функциональных компонентов и их оптимизации.
 
 📖 [Шпаргалка по принципам работы с экосистемой React + Redux](https://github.com/uanders/react-redux-cheatsheet) [**EN**] в виде диаграммы.
-
+api 
+https://github.com/public-apis/public-apis/blob/master/README.md
 
 MOBX
 
