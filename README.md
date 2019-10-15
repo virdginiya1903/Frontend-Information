@@ -134,7 +134,7 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pu
 
 📖 [Учебник по REACT RUS](https://github.com/the-road-to-learn-react/the-road-to-learn-react-russian) [**RU**] -Путь к изучению React 
  https://www.robinwieruch.de/javascript-variable-question-mark
-
+https://www.robinwieruch.de/react-web-components
 
 ## Ныряем в React с головой
 📖 [PureComponent в React](https://habrahabr.ru/company/redmadrobot/blog/318222/) [**RU**] – как и зачем применять, разбор отличий от Component.
