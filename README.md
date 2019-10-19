@@ -369,6 +369,8 @@ http://thetypingcat.com/custom-typing-courses/javascript-existence
 https://jsbooks.revolunet.com/ .
 https://www.robinwieruch.de/learn-react-js
 
+https://www.robinwieruch.de/react-libraries#react-testing
+
 ## Книги
 https://exploringjs.com
 
