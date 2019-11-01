@@ -158,6 +158,7 @@ https://www.robinwieruch.de/react-web-components
 
 📖 [Работа с анимациями в React](https://www.youtube.com/watch?v=npvQX53YuCs) [**EN**] с помощью ReactCSSTransitionGroup. Если вы видели приложения на React с невероятно крутыми переходами между страницами, то посмотрите, как за пару минут можно прикрутить нечто подобное к себе в проект.
 
+
 Airbnb React Style Guide
 
 https://github.com/airbnb/javascript/tree/master/react
