@@ -383,3 +383,9 @@ https://exploringjs.com
 Набор онлайн инструментов от CATONMAT
 https://catonmat.net/
 https://habr.com/ru/post/445264/
+
+Шпаргалки по JS и CSS
+
+http://overapi.com/javascript
+
+http://overapi.com/css
