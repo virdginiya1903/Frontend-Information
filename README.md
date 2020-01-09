@@ -389,3 +389,7 @@ https://habr.com/ru/post/445264/
 http://overapi.com/javascript
 
 http://overapi.com/css
+
+
+API
+https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9
