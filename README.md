@@ -79,6 +79,9 @@ https://fintech.tinkoff.ru/internships/list
 
 📖 [Новые методы массивов](http://2ality.com/2014/05/es6-array-methods.html) [**EN**]: `Array.from`, `find`, `fill`, `includes` и многие другие.
 
+📖 [JavaScript: что такое чистая функция?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.f0ylwguj9) [**EN**] 
+
+
 📖 Промисы:
 📖 [Обещание бургерной вечеринки](https://medium.com/web-standards/%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D0%BD%D0%BE%D0%B9-%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%B8%D0%BD%D0%BA%D0%B8-b0ed209809ab) [**RU**] – основы работы промисов на интересных примерах.
 
@@ -111,7 +114,7 @@ https://medium.freecodecamp.org/a-guide-to-this-in-javascript-e3b9daef4df1
 📖 [Array](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array) [**RU**]  
 ### 
 📖 [Object](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object) [**RU**]  
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.f0ylwguj9
+
 # REACT 
 
 ## React: Основы основ
