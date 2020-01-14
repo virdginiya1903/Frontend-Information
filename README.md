@@ -166,10 +166,10 @@ https://www.robinwieruch.de/react-web-components
 📖 [Работа с анимациями в React](https://www.youtube.com/watch?v=npvQX53YuCs) [**EN**] с помощью ReactCSSTransitionGroup. Если вы видели приложения на React с невероятно крутыми переходами между страницами, то посмотрите, как за пару минут можно прикрутить нечто подобное к себе в проект.
 
 
-Airbnb React Style Guide
+📖 Airbnb React Style Guide
 
-https://github.com/airbnb/javascript/tree/master/react
-https://www.robinwieruch.de/react-redux-tutorial
+📖 https://github.com/airbnb/javascript/tree/master/react
+📖 https://www.robinwieruch.de/react-redux-tutorial
 
 ### Элементы - самые маленькие строительные блоки приложений React
 📖 https://reactjs.org/docs/rendering-elements.html
@@ -221,7 +221,7 @@ https://www.robinwieruch.de/react-redux-tutorial
 
 📖 Статья [Лучшие практики при работе с Redux](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e) [**EN**] расскажет, как не совершить типичных ошибок: где и как организовать бизнес логику приложения, как правильно работать с асинхронными операциями, как создать архитектуру проекта на Redux и многое другое.
 
-https://maxfarseer.gitbooks.io/redux-course-ru-v2/content/sozdanie/tochka-vhoda.html
+📖 https://maxfarseer.gitbooks.io/redux-course-ru-v2/content/sozdanie/tochka-vhoda.html
 
 📖 [mergeStateToProps](https://habrahabr.ru/post/314582/) [**RU**] — возможности React Redux, о которых вы не знали (`mapDispatchToProps` на стероидах
 
@@ -318,7 +318,7 @@ MOBX
 
 Массивы
 
-https://vk.com/@maxpfrontend-shpargalka-po-metodam-dlya-raboty-s-massivami-v-javascript https://doesitmutate.xyz/
+📖 https://vk.com/@maxpfrontend-shpargalka-po-metodam-dlya-raboty-s-massivami-v-javascript https://doesitmutate.xyz/
 
 
 📖 [Набор компетенций](https://habr.com/company/mailru/blog/425821/) [**RU**] - карта "Как стать React разработчиком в 2018 году"
@@ -382,19 +382,19 @@ https://www.robinwieruch.de/learn-react-js
 https://www.robinwieruch.de/react-libraries#react-testing
 
 ## Книги
-https://exploringjs.com
+📖 https://exploringjs.com
 
 
 Набор онлайн инструментов от CATONMAT
-https://catonmat.net/
-https://habr.com/ru/post/445264/
+📖 https://catonmat.net/
+📖 https://habr.com/ru/post/445264/
 
 Шпаргалки по JS и CSS
 
-http://overapi.com/javascript
+📖 http://overapi.com/javascript
 
-http://overapi.com/css
+📖 http://overapi.com/css
 
 
-API
-https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9
+📖 API
+📖 https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9
