@@ -1,8 +1,13 @@
 # Содержание
-[Справочники по основам (Html, Css)](#Html)
-[Методология БЭМ (Яндекс)](#bem)
-[JavaScript](#JavaScript)
+✏️ [Справочники по основам (Html, Css)](#Html)
 
+✏️ [Методология БЭМ (Яндекс)](#bem)
+
+✏️ [JavaScript](#JavaScript)
+
+✏️ [REACT](#REACT)
+
+✏️ [THIS](#THIS)
 
 
 <a name="Html"></a> 
@@ -99,7 +104,7 @@
 📖 [Основы JavaScript перед изучением React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/) [**EN**]
 
 
-
+<a name="THIS"></a> 
 # Шпаргалка по THIS
 📖  [Обработка событий](https://reactjs.org/docs/handling-events.html#passing-arguments-to-event-handlers) [**EN**] в документации React
 
@@ -122,6 +127,7 @@ https://medium.freecodecamp.org/a-guide-to-this-in-javascript-e3b9daef4df1
 ### 
 📖 [Object](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object) [**RU**]  
 
+<a name="REACT"></a> 
 # REACT 
 
 ## React: Основы основ
