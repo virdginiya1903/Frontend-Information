@@ -119,9 +119,9 @@
 
 📖 [Контекст выполнения функции в JavaScript](https://getinstance.info/articles/javascript/execution-context/) [**RU**] 
 
-📖 https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/
-https://medium.freecodecamp.org/a-guide-to-this-in-javascript-e3b9daef4df1
+📖  [Понимание ключевого слова this, вызова, применения и связывания в JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/) [**EN**] 
 
+📖 [Руководство по this в JavaScript](https://medium.freecodecamp.org/a-guide-to-this-in-javascript-e3b9daef4df1) [**EN**] от freecodecamp на примерах
 
 ## Java Script MDN методы встроенных типов
 📖 [String](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String) [**RU**] 
