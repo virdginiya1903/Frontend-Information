@@ -5,9 +5,14 @@
 
 ✏️ [JavaScript](#JavaScript)
 
+✏️ [THIS](#THIS)
+
 ✏️ [REACT](#REACT)
 
-✏️ [THIS](#THIS)
+✏️ [Тестирование в React](#Тестирование)
+
+✏️ [Redux](#Redux)
+
 
 
 <a name="Html"></a> 
@@ -220,6 +225,7 @@ https://www.robinwieruch.de/react-redux-tutorial
 ### ReactRouter
 📖 Документация https://reacttraining.com/react-router/web/guides/phi..
 
+<a name="Redux"></a> 
 # Redux
 ## Робкое знакомство с Redux
 📖 Подробное объяснение [принципов разделения презентационных компонентов и компонентов контейнеров](http://www.kanby.ru/prezentaczionnyij-komponent-i-kontejner-v-react.html) [**RU**] при работе с React и Redux.
@@ -273,7 +279,7 @@ https://www.robinwieruch.de/react-redux-tutorial
   * [Часть 2](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2)
 
 
-
+<a name="Тестирование"></a> 
 ### Тестирование в React
 📖 [Тестирование компонентов в React](https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22) [**EN**]: как сделать это правильно и что нужно тестировать в первую очередь.
 
