@@ -338,8 +338,9 @@ MOBX
 
 Массивы
 
-📖 https://vk.com/@maxpfrontend-shpargalka-po-metodam-dlya-raboty-s-massivami-v-javascript https://doesitmutate.xyz/
+📖 https://vk.com/@maxpfrontend-shpargalka-po-metodam-dlya-raboty-s-massivami-v-javascript 
 
+📖 [Does it mutate 😱](https://doesitmutate.xyz/) [**EN**] методы массивов с информацией изменяет он массив или нет и примерами.
 
 📖 [Набор компетенций](https://habr.com/company/mailru/blog/425821/) [**RU**] - карта "Как стать React разработчиком в 2018 году"
 
