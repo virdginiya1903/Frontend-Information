@@ -294,7 +294,7 @@ https://www.robinwieruch.de/react-redux-tutorial
 
 https://habr.com/company/infowatch/blog/315760/
 
-
+https://medium.com/the-non-traditional-developer/your-react-components-are-doing-too-much-16e65968f419
 # REACT ПЛАГИНЫ
 ### Правила написания по eslint-plugin-react
 📖 https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/prefer-stateless-function.md
