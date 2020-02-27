@@ -235,6 +235,8 @@ https://www.robinwieruch.de/react-redux-tutorial
 
 <a name="Redux"></a> 
 # Redux
+![SociableCraftyAlpaca-size_restricted](https://user-images.githubusercontent.com/35109743/75463719-17e73080-597e-11ea-9082-0a8330213ddf.gif)
+
 ## Робкое знакомство с Redux
 📖 Подробное объяснение [принципов разделения презентационных компонентов и компонентов контейнеров](http://www.kanby.ru/prezentaczionnyij-komponent-i-kontejner-v-react.html) [**RU**] при работе с React и Redux.
 
