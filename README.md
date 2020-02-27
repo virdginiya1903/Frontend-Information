@@ -30,13 +30,16 @@
 📖 [Справочник CSS Reference по Flexbox](https://cssreference.io/flexbox/) [**EN**] - Свойства CSS, которые позволяют использовать возможности Flex3
 
 📖 [Интерактив по флексам](http://flexbox.help/) [**EN**] 
- для продакшена https://dmitriy-8-kireev.github.io/flexboxgrid2/docs/
-
+ 
+📖 [flexboxgrid для продакшена](https://dmitriy-8-kireev.github.io/flexboxgrid2/docs/) [**EN**] 
 
 📖 [CSS Grid](https://gridbyexample.com/learn/) [**EN**] - Все, что вам нужно для изучения CSS Grid Layout
 
-📖 справочники https://gridbyexample.com/learn/ и https://css-tricks.com/snippets/css/complete-guide-grid/ 
-=> интерактив по Гридам http://yui.github.io/gridbuilder/ и https://codepen.io/anthonydugois/pen/RpYBmy
+📖 [Полное руководство по Grid-ам](https://css-tricks.com/snippets/css/complete-guide-grid/) [**EN**] с наглядными примерами.
+
+📖 [Интерактив по Grid-ам](http://yui.github.io/gridbuilder/) [**EN**] 
+
+📖 [Пример Grid-ов в codepen](https://codepen.io/anthonydugois/pen/RpYBmy) [**EN**] 
 
 📖 [Code Guide](http://codeguide.co/) [**EN**] -  Стандарты для разработки гибких, долговечных  HTML и CSS.
 
@@ -162,8 +165,10 @@ https://habr.com/ru/post/460741/
 📖 [Основы JavaScript перед изучением React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-javascript) [EN], краткий список всех различных функций JavaScript, дополняющих ваше приложение React.
 
 📖 [Учебник по REACT RUS](https://github.com/the-road-to-learn-react/the-road-to-learn-react-russian) [**RU**] -Путь к изучению React 
- https://www.robinwieruch.de/javascript-variable-question-mark
-https://www.robinwieruch.de/react-web-components
+ 
+ 📖 [Условный (тернарный) оператор](https://www.robinwieruch.de/javascript-variable-question-mark) [**EN**] 
+
+📖 [Как использовать веб-компоненты в React](https://www.robinwieruch.de/react-web-components) [**EN**] 
 
 ## Ныряем в React с головой
 📖 [PureComponent в React](https://habrahabr.ru/company/redmadrobot/blog/318222/) [**RU**] – как и зачем применять, разбор отличий от Component.
