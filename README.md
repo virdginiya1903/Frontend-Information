@@ -419,9 +419,10 @@ https://www.robinwieruch.de/react-libraries#react-testing
 📖 http://overapi.com/css
 
 
-📖 API
-📖 https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9
+
+📖 [API](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9) [EN].The best practices.  
 
 ## VR и AR
-https://marmelab.com/blog/2019/04/25/react-native-augmented-reality.html
-https://docs.viromedia.com/docs
+📖 [Создание приложений дополненной реальности с React-Native](https://marmelab.com/blog/2019/04/25/react-native-augmented-reality.html) [EN].   
+
+📖 [Документация ViroReact](https://docs.viromedia.com/docs) [EN].  
