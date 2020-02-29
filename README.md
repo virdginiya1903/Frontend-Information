@@ -103,8 +103,10 @@
 📖 [JavaScript: что такое чистая функция?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.f0ylwguj9) [**EN**] 
 Полное руководство по особенностям ES10
 
+📖 [es6 простым языком](https://habr.com/ru/post/460741/) [**RU**]
+
 https://medium.com/@js_tut/the-complete-guide-to-es10-features-f09a8c7be1bd
-https://habr.com/ru/post/460741/ es6 простым языком
+
 
 📖 Промисы:
 
