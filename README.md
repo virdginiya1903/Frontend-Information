@@ -193,19 +193,38 @@ https://habr.com/ru/post/460741/
 
 📖 [Работа с анимациями в React](https://www.youtube.com/watch?v=npvQX53YuCs) [**EN**] с помощью ReactCSSTransitionGroup. Если вы видели приложения на React с невероятно крутыми переходами между страницами, то посмотрите, как за пару минут можно прикрутить нечто подобное к себе в проект.
 
-
-📖 Airbnb React Style Guide
-
 📖 https://github.com/airbnb/javascript/tree/master/react
 📖 https://www.robinwieruch.de/react-redux-tutorial
 
-### Элементы - самые маленькие строительные блоки приложений React
-📖 https://reactjs.org/docs/rendering-elements.html
+📖 [Элементы](https://reactjs.org/docs/rendering-elements.html)- самые маленькие строительные блоки приложений React [**EN**] 
+
+ 
+
 
 ### React Top-Level API
-📖 https://reactjs.org/docs/react-api.html
+https://reactjs.org/docs/react-api.html
 ### ReactDOM
 📖 https://reactjs.org/docs/react-dom.html
+
+<a name="Тестирование"></a> 
+### Тестирование в React
+📖 [Тестирование компонентов в React](https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22) [**EN**]: как сделать это правильно и что нужно тестировать в первую очередь.
+
+📖 [Лучшие практики тестирования React компонентов](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) [**EN**].
+
+📖 [Видео курс от egghead.io](https://egghead.io/lessons/javascript-test-javascript-with-jest?pl=testing-javascript-with-jest-a36c4074) [**EN**] про тестирование React приложения с Jest.
+
+📖 [Руководство по использованию TDD подхода при разработке React приложений](https://www.spencerdixon.com/blog/test-driven-react-tutorial.html) [**EN**]
+
+https://habr.com/company/infowatch/blog/315760/
+
+https://medium.com/the-non-traditional-developer/your-react-components-are-doing-too-much-16e65968f419
+# REACT ПЛАГИНЫ
+### Правила написания по eslint-plugin-react
+📖 https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/prefer-stateless-function.md
+
+### Airbnb JavaScript Style Guide
+📖 https://github.com/airbnb/javascript#table-of-contents
 
 
 ### Документация create-react-app
@@ -290,26 +309,6 @@ https://www.robinwieruch.de/react-redux-tutorial
   * [Часть 1](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1)
   * [Часть 2](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2)
 
-
-<a name="Тестирование"></a> 
-### Тестирование в React
-📖 [Тестирование компонентов в React](https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22) [**EN**]: как сделать это правильно и что нужно тестировать в первую очередь.
-
-📖 [Лучшие практики тестирования React компонентов](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) [**EN**].
-
-📖 [Видео курс от egghead.io](https://egghead.io/lessons/javascript-test-javascript-with-jest?pl=testing-javascript-with-jest-a36c4074) [**EN**] про тестирование React приложения с Jest.
-
-📖 [Руководство по использованию TDD подхода при разработке React приложений](https://www.spencerdixon.com/blog/test-driven-react-tutorial.html) [**EN**]
-
-https://habr.com/company/infowatch/blog/315760/
-
-https://medium.com/the-non-traditional-developer/your-react-components-are-doing-too-much-16e65968f419
-# REACT ПЛАГИНЫ
-### Правила написания по eslint-plugin-react
-📖 https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/prefer-stateless-function.md
-
-### Airbnb JavaScript Style Guide
-📖 https://github.com/airbnb/javascript#table-of-contents
 
 ## Инструменты
 📖 [Webpack + React](https://habrahabr.ru/post/308926/) [**RU**] – как уменьшить бандл в 15 раз: подборка плагинов для экстремального сжатия.
