@@ -194,12 +194,10 @@ https://habr.com/ru/post/460741/
 📖 [Работа с анимациями в React](https://www.youtube.com/watch?v=npvQX53YuCs) [**EN**] с помощью ReactCSSTransitionGroup. Если вы видели приложения на React с невероятно крутыми переходами между страницами, то посмотрите, как за пару минут можно прикрутить нечто подобное к себе в проект.
 
 📖 https://github.com/airbnb/javascript/tree/master/react
-📖 https://www.robinwieruch.de/react-redux-tutorial
+
+📖 [React Redux туториал для начинающих 2019](https://www.robinwieruch.de/react-redux-tutorial) [**EN**] 
 
 📖 [Элементы](https://reactjs.org/docs/rendering-elements.html)- самые маленькие строительные блоки приложений React [**EN**] 
-
- 
-
 
 ### React Top-Level API
 https://reactjs.org/docs/react-api.html
