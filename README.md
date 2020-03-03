@@ -103,7 +103,10 @@
 📖 [JavaScript: что такое чистая функция?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.f0ylwguj9) [**EN**] 
 
 📖 [es6 простым языком](https://habr.com/ru/post/460741/) [**RU**]
+
 📖 [Полное руководство по особенностям ES10](https://medium.com/@js_tut/the-complete-guide-to-es10-features-f09a8c7be1bd) [**EN**] 
+
+📖 [Основы JavaScript перед изучением React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/) [**EN**]
 
 📖 Промисы:
 
@@ -112,9 +115,6 @@
 📖 [Сборник наиболее необходимых на практике приёмов использования промисов](https://habrahabr.ru/post/311804/) [**RU**]
 
 📖 [Онлайн песочница](http://bevacqua.github.io/promisees/) [**EN**] для изучения промисов с визуализацией алгоритма их выполнения. Есть несколько отличных примеров для демонстрации принципов работы и возможность написать код своими руками.
-
-📖 [Основы JavaScript перед изучением React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/) [**EN**]
-
 
 <a name="THIS"></a> 
 # Шпаргалка по THIS
@@ -129,7 +129,8 @@
 📖  [Понимание ключевого слова this, вызова, применения и связывания в JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/) [**EN**] 
 
 📖 [Руководство по this в JavaScript](https://medium.freecodecamp.org/a-guide-to-this-in-javascript-e3b9daef4df1) [**EN**] от freecodecamp на примерах
-https://habr.com/ru/post/460741/
+
+
 ## Java Script MDN методы встроенных типов
 📖 [String](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String) [**RU**] 
   
@@ -193,7 +194,7 @@ https://habr.com/ru/post/460741/
 
 📖 [Работа с анимациями в React](https://www.youtube.com/watch?v=npvQX53YuCs) [**EN**] с помощью ReactCSSTransitionGroup. Если вы видели приложения на React с невероятно крутыми переходами между страницами, то посмотрите, как за пару минут можно прикрутить нечто подобное к себе в проект.
 
-📖 https://github.com/airbnb/javascript/tree/master/react
+📖 [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react) [**EN**] - наиболее разумный подход к React и JSX.
 
 📖 [React Redux туториал для начинающих 2019](https://www.robinwieruch.de/react-redux-tutorial) [**EN**] 
 
