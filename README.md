@@ -21,6 +21,8 @@
 <a name="Html"></a> 
 # Справочники по основам (Html, Css)
 
+📖 [Шпаргалка по CSS](http://overapi.com/css) [**EN**] - все ссылки ведут на MDN.
+
 📖 [Бесплатный справочник по HTML](https://htmlreference.io/) [**EN**] –  Он содержит все элементы и атрибуты.
 
 📖 [CSS Reference - бесплатный визуальный справочник по CSS](https://cssreference.io/) [**EN**] –  Он содержит самые популярные свойства и объясняет их иллюстрированными и анимированными примерами.
@@ -200,10 +202,9 @@
 
 📖 [Элементы](https://reactjs.org/docs/rendering-elements.html)- самые маленькие строительные блоки приложений React [**EN**] 
 
-### React Top-Level API
-https://reactjs.org/docs/react-api.html
-### ReactDOM
-📖 https://reactjs.org/docs/react-dom.html
+📖 [React Top-Level API](https://reactjs.org/docs/react-api.html) [**EN**] 
+
+📖 [ReactDOM](https://reactjs.org/docs/react-dom.html) [**EN**] 
 
 <a name="Тестирование"></a> 
 ### Тестирование в React
@@ -422,8 +423,6 @@ https://www.robinwieruch.de/react-libraries#react-testing
 Шпаргалки по JS и CSS
 
 📖 http://overapi.com/javascript
-
-📖 http://overapi.com/css
 
 
 
