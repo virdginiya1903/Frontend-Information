@@ -179,6 +179,9 @@
  📖 [Условный (тернарный) оператор](https://www.robinwieruch.de/javascript-variable-question-mark) [**EN**] 
 
 📖 [Как использовать веб-компоненты в React](https://www.robinwieruch.de/react-web-components) [**EN**] 
+https://ru.reactjs.org/ -  React documentation website in Russian / Официальная русская версия сайта React
+
+
 
 ## Ныряем в React с головой
 📖 [PureComponent в React](https://habrahabr.ru/company/redmadrobot/blog/318222/) [**RU**] – как и зачем применять, разбор отличий от Component.
