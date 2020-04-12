@@ -110,6 +110,7 @@
 
 📖 [Основы JavaScript перед изучением React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/) [**EN**]
 
+📖 [Сложный JavaScript простым языком](https://www.youtube.com/playlist?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT) [**RU**]
 
 Шпаргалки по JS
 
