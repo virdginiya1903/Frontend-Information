@@ -114,9 +114,7 @@
 
 Шпаргалки по JS
 
-📖 http://overapi.com/javascript
-
-📖 Промисы:
+📖 [Шпаргалка по JS](http://overapi.com/javascript) [**EN**]
 
 📖 [Обещание бургерной вечеринки](https://medium.com/web-standards/%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D0%BD%D0%BE%D0%B9-%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%B8%D0%BD%D0%BA%D0%B8-b0ed209809ab) [**RU**] – основы работы промисов на интересных примерах.
 
@@ -180,8 +178,8 @@
  📖 [Условный (тернарный) оператор](https://www.robinwieruch.de/javascript-variable-question-mark) [**EN**] 
 
 📖 [Как использовать веб-компоненты в React](https://www.robinwieruch.de/react-web-components) [**EN**] 
-https://ru.reactjs.org/ -  React documentation website in Russian / Официальная русская версия сайта React
 
+📖 [React documentation website in Russian](https://ru.reactjs.org/) [**RU**] - Официальная русская версия сайта React
 
 
 ## Ныряем в React с головой
