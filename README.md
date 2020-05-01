@@ -346,9 +346,10 @@ https://www.robinwieruch.de/react-redux-tutorial
 
 📖 [Основы работы с recompose](https://www.youtube.com/watch?v=SQtrgiLy3Fo) [**EN**] – библиотекой для расширения возможностей функциональных компонентов и их оптимизации.
 
-📖 [Шпаргалка по принципам работы с экосистемой React + Redux](https://github.com/uanders/react-redux-cheatsheet) [**EN**] в виде диаграммы.
-api 
-https://github.com/public-apis/public-apis/blob/master/README.md
+📖 [Шпаргалка по принципам работы с экосистемой React + Redux](https://github.com/uanders/react-redux-cheatsheet) [**EN**] в виде диаграммы. 
+
+📖 [Общий список бесплатных API](https://github.com/public-apis/public-apis/blob/master/README.md) [**EN**]  для использования в программном обеспечении и веб-разработке.
+
 
 MOBX
 
