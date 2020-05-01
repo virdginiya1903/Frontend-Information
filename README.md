@@ -223,9 +223,9 @@
 
 📖 [Руководство по использованию TDD подхода при разработке React приложений](https://www.spencerdixon.com/blog/test-driven-react-tutorial.html) [**EN**]
 
-https://habr.com/company/infowatch/blog/315760/
+📖 https://habr.com/company/infowatch/blog/315760/
 
-https://medium.com/the-non-traditional-developer/your-react-components-are-doing-too-much-16e65968f419
+📖 https://medium.com/the-non-traditional-developer/your-react-components-are-doing-too-much-16e65968f419
 # REACT ПЛАГИНЫ
 ### Правила написания по eslint-plugin-react
 📖 https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/prefer-stateless-function.md
@@ -238,9 +238,15 @@ https://medium.com/the-non-traditional-developer/your-react-components-are-doing
 📖 https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md
 
 ### Styled-components
-📖 Документация https://www.styled-components.com/docs => примеры использования и концепция https://mxstbr.blog/2016/11/styled-components-magic-explained/ => Строчная интерполяция Встроенные выражения Многострочные строки без хаков
-Форматирование строк https://developers.google.com/web/updates/2015/01/ES6-Template-Strings
-https://www.robinwieruch.de/react-redux-tutorial
+📖 Документация https://www.styled-components.com/docs => 
+
+📖 примеры использования и концепция https://mxstbr.blog/2016/11/styled-components-magic-explained/ => 
+
+📖 Строчная интерполяция Встроенные выражения Многострочные строки без хаков
+
+📖 Форматирование строк https://developers.google.com/web/updates/2015/01/ES6-Template-Strings
+
+📖 https://www.robinwieruch.de/react-redux-tutorial
 # Роутинг
 📖 [React Router 4](https://habrahabr.ru/post/329996/) [**RU**] – простое объяснение отличий от предыдущих версий.
 
@@ -374,8 +380,6 @@ https://regex101.com
 
 📖 [Cтандарты языка ECMAScript 2019 + Важные правила React and Redux](https://gist.github.com/Dmitriy-8-Kireev/cfbd6b0227f9369c6c3cb0ab3766811f)  
 
-
-
 📖 [Основы REDUX визуально](https://gist.github.com/Dmitriy-8-Kireev/7d62a395f11f55590d844bfbf6029be5/) 
 
 📖 [React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/) [EN], Как получить данные с помощью React Hooks.
@@ -384,43 +388,46 @@ https://regex101.com
 📖 [Normalizr](https://github.com/paularmstrong/normalizr) [EN] - это мощная библиотека, которая помогает вам нормализовать ваши данные
 
 📖 [Учебник по Реакт](http://theory.phphtml.net/books/advanced/javascript/react/) [**RU**] от Трепачёва Д.П. 
+
 📖  https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
+
 📖  https://medium.com/@react.developer/глава-1-знакомство-с-redux-210cdcb5462d
 
-
-
 📖 [Как настроить Express.js](https://www.robinwieruch.de/node-js-express-tutorial/) [EN], в Node.js.  
-
 
 📖 [Общие сведения о контейнерах и Docker от Microsoft ](https://docs.microsoft.com/ru-ru/dotnet/standard/microservices-architecture/container-docker-introduction/docker-defined) [**RU**]
   
 
+📖  [Шпаргалка по преобразованию типов](https://medium.com/@sergeybulavyk/%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B8%D0%BF%D0%BE%D0%B2-%D0%B2-javascript-35a15ddfc333) [**RU**]
 
- 📖  [Шпаргалка по преобразованию типов](https://medium.com/@sergeybulavyk/%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B8%D0%BF%D0%BE%D0%B2-%D0%B2-javascript-35a15ddfc333) [**RU**]
- 📖  для (== === if()) https://dorey.github.io/JavaScript-Equality-Table/
+📖  для (== === if()) https://dorey.github.io/JavaScript-Equality-Table/
 
- 📖 [Задачи на Javascript](https://www.codewars.com/?language=javascript) [EN]
+📖 [Задачи на Javascript](https://www.codewars.com/?language=javascript) [EN]
   
- 📖  [Наглядная шпаргалка по методам массивов](https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3) [EN]  
+📖  [Наглядная шпаргалка по методам массивов](https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3) [EN]  
  
- 📖  [Решение мелких задач](https://gist.github.com/virdginiya1903/de3396ab168c0e06747a9726cc8cb73a) [RU]  
+📖  [Решение мелких задач](https://gist.github.com/virdginiya1903/de3396ab168c0e06747a9726cc8cb73a) [RU]  
  
-  📖  [How to simplify your codebase with map(), reduce(), and filter() in JavaScript](https://medium.freecodecamp.org/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f) [EN]  
+📖  [How to simplify your codebase with map(), reduce(), and filter() in JavaScript](https://medium.freecodecamp.org/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f) [EN]  
 
 📖  [Изучите основы React Hooks за <10 минут](https://medium.freecodecamp.org/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d?source=user_profile---------0---------------------) [EN] - Иллюстрированное руководство по React Hooks.
 
-  📖  [Шпаргалка с комментариями по Axios](https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index) [EN] - Хороший пример работы с API и документирования кода.   
+📖  [Шпаргалка с комментариями по Axios](https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index) [EN] - Хороший пример работы с API и документирования кода.   
 
- 
- https://habr.com/company/mailru/blog/425821/
-https://vds-admin.ru/http/kody-sostoyaniya-http-otveta-veb-servera-metody-http
-https://mothereff.in/js-variables 
+📖 https://habr.com/company/mailru/blog/425821/
+
+📖 https://vds-admin.ru/http/kody-sostoyaniya-http-otveta-veb-servera-metody-http
+
+📖 https://mothereff.in/js-variables 
 Валидатор имени переменной JavaScript
-http://thetypingcat.com/custom-typing-courses/javascript-existence
-https://jsbooks.revolunet.com/ .
-https://www.robinwieruch.de/learn-react-js
 
-https://www.robinwieruch.de/react-libraries#react-testing
+📖 http://thetypingcat.com/custom-typing-courses/javascript-existence
+
+📖 https://jsbooks.revolunet.com/ .
+
+📖 https://www.robinwieruch.de/learn-react-js
+
+📖 https://www.robinwieruch.de/react-libraries#react-testing
 
 ## Книги
 📖 https://exploringjs.com
@@ -428,10 +435,8 @@ https://www.robinwieruch.de/react-libraries#react-testing
 
 Набор онлайн инструментов от CATONMAT
 📖 https://catonmat.net/
+
 📖 https://habr.com/ru/post/445264/
-
-
-
 
 📖 [API](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9) [EN].The best practices.  
 
