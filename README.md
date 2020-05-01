@@ -408,7 +408,9 @@ https://regex101.com
   📖  [How to simplify your codebase with map(), reduce(), and filter() in JavaScript](https://medium.freecodecamp.org/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f) [EN]  
 
 📖  [Изучите основы React Hooks за <10 минут](https://medium.freecodecamp.org/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d?source=user_profile---------0---------------------) [EN] - Иллюстрированное руководство по React Hooks.
-https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index
+
+  📖  [Шпаргалка с комментариями по Axios](https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index) [EN] - Хороший пример работы с API и документирования кода.   
+
  
  https://habr.com/company/mailru/blog/425821/
 https://vds-admin.ru/http/kody-sostoyaniya-http-otveta-veb-servera-metody-http
